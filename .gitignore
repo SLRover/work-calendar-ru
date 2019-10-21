@@ -1,0 +1,11 @@
+# Idea files
+.idea
+
+# Venv
+venv
+
+# PyPi
+.pypirc
+
+# Setup
+work_calendar_ru.egg-info
