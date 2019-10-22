@@ -7,12 +7,12 @@
 `import work_calendar_ru`
 
 ## Checkers
-* Work time now `is_work_time()`
-* Holiday today `is_holiday()`
-* Work day today `is_work_day()`
-* Short work day today `is_short_work_day()`
-* Work weekend day today `is_work_weekend()`
-* Weekend day today `is_weekend()`
+* Work time now `work_calendar_ru.is_work_time()`
+* Holiday today `work_calendar_ru.is_holiday()`
+* Work day today `work_calendar_ru.is_work_day()`
+* Short work day today `work_calendar_ru.is_short_work_day()`
+* Work weekend day today `work_calendar_ru.is_work_weekend()`
+* Weekend day today `work_calendar_ru.is_weekend()`
 
 ## License
 MIT license

@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='work_calendar_ru',
-    version='1.0',
+    version='1.0.1',
     packages=['work_calendar_ru', 'work_calendar_ru.data'],
     url='https://github.com/SLRover/work-calendar-ru',
     license='MIT',
