@@ -10,3 +10,6 @@ venv
 # Setup
 work_calendar_ru.egg-info
 build
+
+# Tests
+test.py
