@@ -7,7 +7,7 @@ Simple library for checking current day as a holiday or weekend and current time
 `pip install work_calendar_ru`
 
 ## Import package
-`from work_calendar_ru.core import WCR`
+`from work_calendar_ru import WCR`
 
 ## Using package
 `wcr = WCR(start_hour=9, start_minutes=0, end_hour=19, end_minutes=30)`
