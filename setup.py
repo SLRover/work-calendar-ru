@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='work_calendar_ru',
-    version='1.1.1',
+    version='1.1.2',
     packages=find_packages(),
     url='https://github.com/SLRover/work-calendar-ru',
     license='MIT',
